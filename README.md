@@ -1,5 +1,3 @@
-Certainly! Here's the README with "I" instead of "we" to reflect that you created the project alone:
-
 # ATLIQ HARDWARE Sales Insights
 
 Welcome to the ATLIQ HARDWARE Sales Insights project README. This project provides a comprehensive overview of the sales data for ATLIQ HARDWARE in India. I've created a powerful report and dashboard using Microsoft Power BI to analyze sales patterns throughout the years and months.
